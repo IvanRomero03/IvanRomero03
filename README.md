@@ -5,7 +5,7 @@
 ## About me
 - 📚I'm a Data Science and Mathematics student at Tec. de Monterrey
 - 🖥️I'm a programer at [RoBorregos][Roborregos]
-- 😎Currently working as a Web. Dev for Micronics Mx 
+- 😎Currently interning as a Web. Dev for Micronics Mx 
 - ✅Fun Fact: I play the Oboe 🎼
 - 💻I'm currently learning about **AI** 
 
