@@ -3,7 +3,7 @@
 
 
 ## About me
-- 📚I'm a Data Science and Mathematics student at Tec. de Monterrey
+- 📚I'm a Computer Science Eng. student at Tec. de Monterrey
 - 🖥️I'm a programer at [RoBorregos][Roborregos]
 - 😎Currently interning as a Web. Dev for Micronics Mx 
 - ✅Fun Fact: I play the Oboe 🎼
