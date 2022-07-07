@@ -39,7 +39,7 @@
 
 ## GitHub Stats
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IvanRomero03&show_icons=true&locale=en&layout=compact&theme=onedark&langs_count=4"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IvanRomero03&show_icons=true&locale=en&layout=compact&theme=onedark&langs_count=6"/></p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=IvanRomero03&show_icons=true&locale=en&theme=onedark"  width="410" /></p>
 </div>
 
