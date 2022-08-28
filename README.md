@@ -7,7 +7,7 @@
 - 🖥️I'm a programer at [RoBorregos][Roborregos]
 - 😎Currently interning as a SWE for Oneila 
 - ✅Fun Fact: I play the Oboe 🎼
-- 💻I'm currently learning about **GraphQL** 
+- 💻I'm currently learning about **GraphQL** and **tRPC**
 
 ## Contact me
 <a href="https://www.linkedin.com/in/ivanromerow" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
