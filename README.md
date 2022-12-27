@@ -14,8 +14,8 @@
 <a href="https://www.instagram.com/ivanromero.w/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/Ivan.wellsr" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="mailto:i.wells.ar@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> </a>
-
-![linkedin](https://linkedin-github.herokuapp.com/api/render/Ivan%20Romero/CS%20Student/Web%20Dev/Bachelor's%20Degree/dark/https%3A%2F%2Fmedia-exp1.licdn.com%2Fdms%2Fimage%2FC4E03AQEMAmk9ihBfyg%2Fprofile-displayphoto-shrink_200_200%2F0%2F1638913681674%3Fe%3D1660780800%26v%3Dbeta%26t%3D4ORHdnXDaRKrbZZMC5V5kEIHyk8YJMYtecPOLKXORg8)
+<!--
+![linkedin](https://linkedin-github.herokuapp.com/api/render/Ivan%20Romero/CS%20Student/Web%20Dev/Bachelor's%20Degree/dark/https%3A%2F%2Fmedia-exp1.licdn.com%2Fdms%2Fimage%2FC4E03AQEMAmk9ihBfyg%2Fprofile-displayphoto-shrink_200_200%2F0%2F1638913681674%3Fe%3D1660780800%26v%3Dbeta%26t%3D4ORHdnXDaRKrbZZMC5V5kEIHyk8YJMYtecPOLKXORg8) -->
 
 ## Languages and tools
 
