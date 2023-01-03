@@ -4,7 +4,7 @@
 
 ## About me
 - 📚I'm a Computer Science Eng. student at Tec. de Monterrey
-- 🖥️I'm a programer at [RoBorregos][Roborregos]
+- 🖥️I'm a SWD at [RoBorregos][Roborregos]
 - 😎Currently interning as a SWE for Oneila 
 - ✅Fun Fact: I play the Oboe 🎼
 - 💻I'm currently learning about **GraphQL** and **tRPC**
