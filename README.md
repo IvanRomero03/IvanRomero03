@@ -5,9 +5,9 @@
 ## About me
 - 📚I'm a Computer Science Eng. student at Tec. de Monterrey
 - 🖥️I'm a SWD at [RoBorregos][Roborregos]
-- 😎Currently interning as a SWE for Oneila 
+- 😎Currently interning at Tec de Monterrey On Campus Jobs, Central Park Crowd Counting
 - ✅Fun Fact: I play the Oboe 🎼
-- 💻I'm currently learning **Astro**
+- 💻I'm currently learning **Design Patterns**
 
 ## Contact me
 <a href="https://www.linkedin.com/in/ivanromerow" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
