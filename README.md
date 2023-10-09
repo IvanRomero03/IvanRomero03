@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm [Ivan](https://portafolio-ivanromero03.vercel.app)
-[![trophy](https://github-profile-trophy.vercel.app/?username=IvanRomero03&theme=onedark&column=6&row=1&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=IvanRomero03&theme=onedark&column=7&row=1&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=IvanRomero03&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)-->
 
 ## About me
 - 📚I'm a Computer Science Eng. student at Tec. de Monterrey
