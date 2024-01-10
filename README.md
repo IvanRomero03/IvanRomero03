@@ -5,7 +5,7 @@
 ## About me
 - 📚I'm a Computer Science Eng. student at Tec. de Monterrey
 - 🖥️I'm a SWD at [RoBorregos][Roborregos]
-- 😎Currently developing at Tec de Monterrey On Campus Jobs, Central Park Crowd Counting
+- 😎Currently interning at Datadog
 - ✅Fun Fact: I play the Oboe 🎼
 - 💻I'm currently learning **Design Patterns**
 
