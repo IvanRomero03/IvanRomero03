@@ -5,7 +5,7 @@
 ## About me
 - 📚I'm a Computer Science Eng. student at Tec. de Monterrey
 - 🖥️I'm a SWD at [RoBorregos][Roborregos]
-- 😎Currently interning at Datadog
+- 😎Currently interning at Microsoft
 - ✅Fun Fact: I play the Oboe 🎼
 - 💻I'm currently learning about **Distributed systems**
 
